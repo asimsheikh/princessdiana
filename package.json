@@ -1,0 +1,23 @@
+{
+  "name": "princessdiana",
+  "version": "1.0.0",
+  "description": "This is the initial landing page for the launch of Di's business.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asimsheikh/princessdiana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asimsheikh/princessdiana/issues"
+  },
+  "homepage": "https://github.com/asimsheikh/princessdiana#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
