@@ -4,7 +4,7 @@
   "description": "This is the initial landing page for the launch of Di's business.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tailwindcss build -i src/styles.css -o public/output.css --watch"
   },
   "repository": {
     "type": "git",
